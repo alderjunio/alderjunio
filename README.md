@@ -1,4 +1,4 @@
-## Fala Dev! Sou Alder Junio e sejam bem vindos! 👋
+## Fala Dev! Sejam bem vindos! 👋
 
 
 <img src="https://github.com/alderjunio/alderjunio/blob/main/programador.gif" width="350px">
