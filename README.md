@@ -1,5 +1,3 @@
-## Sejam bem vindos! 
-
 ## Fique a vontade  enquanto estou codando aqui 
 
 
