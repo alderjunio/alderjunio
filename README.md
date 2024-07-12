@@ -1,4 +1,4 @@
-## Fala Dev! Sejam bem vindos! 👋
+## Sejam bem vindos! Fique a vontade pra ver meus repositórios enquanto estou codando aqui 👋
 
 
 <img src="https://github.com/alderjunio/alderjunio/blob/main/programador.gif" width="350px">
