@@ -1,4 +1,8 @@
-## Hi there 👋
+## Fala Dev! Sou Alder Junio e sejam bem vindos! 👋
+
+
+<img src="https://github.com/alderjunio/alderjunio/blob/main/programador.gif" width="350px">
+
 
 <!--
 **alderjunio/alderjunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
